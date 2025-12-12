@@ -1,5 +1,3 @@
-
-````markdown
 # HIBERNATE-StudentManagementSystem-App
 
 **A comprehensive Student Management System (SMS) built with Java Swing for the GUI and Hibernate ORM for efficient data persistence using a MySQL database.**
@@ -94,6 +92,7 @@ HIBERNATE-StudentManagmentSystem-App/
 -----
 
 ## 📸 Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b121b4c9-e700-48b2-8e25-9f04958ed5ff" />
 
 
 -----
